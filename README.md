@@ -2,7 +2,7 @@
 
 เว็บไซต์พอร์ตโฟลิโอส่วนตัว (Personal Portfolio Website) สำหรับแนะนำตัวเอง รวบรวมประวัติการศึกษา ประสบการณ์การทำงาน และผลงานต่างๆ เพื่อใช้ในการนำเสนอข้อมูลในรูปแบบออนไลน์ที่ทันสมัยและใช้งานง่าย
 
-🔗 **Live Demo:** [https://flame123-np.github.io/my-portfolio-241/]
+🔗 **Live Demo:** [https://catboyz-45.github.io/my-portfolio-241/]
 
 ---
 
@@ -72,6 +72,6 @@ npm run deploy
 
 ## 👥 สมาชิกผู้พัฒนา (Developers)
 
-* **Nuttaphat** ([@flame123-np](https://github.com/flame123-np))
+* **Nuttaphat** ([@Catboyz-45](https://github.com/Catboyz-45))
 
 *(หมายเหตุ: โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชา Internet Technology (02739241) ในภาคการศึกษา 2567 กลุ่มเรียน 820)*
